@@ -24,3 +24,7 @@ node server.js
 
 Open:
 http://localhost:5000
+
+## Author
+
+Himanshu Singh
